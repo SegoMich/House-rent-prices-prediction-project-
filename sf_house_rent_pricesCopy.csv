@@ -1,0 +1,990 @@
+price,sqft,beds,bath,laundry,pets,housing_type,parking,hood_district
+6800,1600,2,2, in-unit, no pets, multi, protected,7
+3500,550,1,1, in-unit, both, multi, protected,7
+5100,1300,2,1, in-unit, both, multi, no parking,7
+9000,3500,3,2.5, in-unit, no pets, multi, protected,7
+3100,561,1,1, no laundry, both, multi, no parking,7
+3800,800,2,1, on-site, cats, multi, protected,9
+3100,750,1,1, in-unit, no pets, multi, protected,8
+3000,650,1,1, on-site, both, multi, no parking,7
+3000,650,1,1, on-site, both, multi, protected,7
+3200,650,1,1, in-unit, cats, multi, protected,9
+3100,650,1,1, on-site, both, multi, protected,7
+15000,3500,4,3.5, in-unit, no pets, single, protected,1
+3300,1525,2,1, on-site, no pets, single, no parking,2
+5600,1307,2,2, in-unit, no pets, multi, protected,9
+2345,500,1,1, no laundry, cats, multi, no parking,2
+2700,850,2,1, no laundry, no pets, multi, protected,2
+3700,800,1,1, on-site, both, multi, protected,7
+3595,1205,3,2, on-site, no pets, multi, protected,1
+4875,1708,2,3, in-unit, no pets, multi, no parking,9
+5200,1417,2,1.5, in-unit, both, multi, protected,6
+5200,1700,4,2, in-unit, both, multi, protected,6
+1880,350,0,1, no laundry, no pets, multi, no parking,9
+4350,950,2,1, in-unit, cats, multi, protected,8
+2500,700,1,1, on-site, both, multi, protected,2
+3184,704,1,1, in-unit, both, multi, protected,9
+2705,509,0,1, in-unit, both, multi, protected,9
+3581,922,2,2, in-unit, both, multi, protected,9
+2610,694,1,1, in-unit, both, multi, protected,9
+4900,1600,3,2.5, in-unit, both, multi, protected,9
+4200,1500,3,2, in-unit, both, multi, no parking,9
+3600,1100,2,1, on-site, both, multi, no parking,6
+4200,1400,3,2, in-unit, both, multi, no parking,9
+4500,1400,3,1, in-unit, both, multi, no parking,9
+4200,1400,3,2, in-unit, both, multi, protected,9
+4800,1000,2,2, in-unit, both, multi, no parking,6
+5000,1400,3,2, in-unit, both, multi, protected,9
+5000,1400,3,3.5, in-unit, both, multi, no parking,9
+2900,725,1,1, on-site, both, multi, protected,6
+1880,350,0,1, no laundry, no pets, multi, no parking,9
+3995,908,2,1, in-unit, both, multi, protected,9
+2200,630,1,1, no laundry, both, multi, no parking,5
+2795,664,1,1, on-site, cats, multi, no parking,5
+3300,900,1,1, on-site, no pets, multi, no parking,5
+2995,810,2,1, on-site, cats, multi, no parking,5
+1995,388,1,1, on-site, both, multi, no parking,8
+2750,600,1,1, on-site, cats, multi, protected,5
+5050,1500,2,2, in-unit, cats, multi, protected,7
+3800,950,1,1, in-unit, no pets, multi, valet,9
+2600,725,0,1, on-site, no pets, multi, no parking,6
+3498,995,2,2, on-site, both, multi, off-street,5
+2600,558,1,1, in-unit, no pets, multi, no parking,8
+2950,606,1,1, in-unit, both, multi, no parking,6
+2795,750,1,1, on-site, both, multi, protected,9
+2195,1000,1,1, on-site, no pets, multi, protected,8
+3815,683,1,1, in-unit, both, multi, protected,9
+4050,830,1,1, in-unit, no pets, multi, valet,9
+750,170,1,1, on-site, no pets, multi, no parking,10
+2299,500,1,1, on-site, both, multi, no parking,9
+3572,697,1,1, in-unit, both, multi, protected,9
+2843,720,1,1, in-unit, both, multi, protected,9
+3636,721,1,1, in-unit, both, multi, protected,9
+3107,690,1,1, in-unit, both, multi, protected,9
+2800,780,1,1, on-site, no pets, multi, no parking,7
+3404,855,1,1, in-unit, both, multi, protected,9
+2399,559,1,1, in-unit, no pets, multi, valet,9
+3250,650,1,1, in-unit, both, multi, no parking,8
+1948,500,0,1, in-unit, both, multi, no parking,8
+1948,500,0,1, in-unit, both, multi, no parking,9
+2600,800,1,1, in-unit, both, multi, protected,9
+2600,650,1,1, no laundry, both, multi, no parking,9
+3000,900,1,1, on-site, cats, multi, no parking,8
+3300,757,1,1, in-unit, no pets, multi, protected,9
+2500,600,1,1, on-site, no pets, multi, protected,4
+2700,625,1,1, no laundry, no pets, multi, protected,7
+3200,916,1,1, in-unit, no pets, multi, protected,9
+3200,916,1,1, in-unit, dogs, multi, protected,9
+2404,615,1,1, on-site, both, multi, off-street,5
+2660,615,1,1, on-site, both, multi, off-street,5
+2835,600,1,1, on-site, no pets, multi, no parking,8
+2586,662,1,1, in-unit, both, multi, no parking,9
+1820,516,0,1, in-unit, both, multi, no parking,9
+2100,660,0,1, on-site, no pets, multi, no parking,9
+3500,768,1,1, in-unit, dogs, multi, protected,9
+3884,943,2,2, in-unit, both, multi, no parking,9
+3750,1375,2,2, on-site, no pets, multi, protected,9
+3750,1375,2,2, on-site, no pets, multi, protected,9
+4390,1070,2,2, in-unit, no pets, multi, protected,9
+4390,1070,2,2, in-unit, no pets, multi, protected,9
+3000,750,1,1, on-site, no pets, multi, no parking,5
+3188,737,1,1, in-unit, no pets, multi, protected,9
+4499,1200,2,2, in-unit, no pets, single, protected,2
+4800,1105,2,2, in-unit, no pets, multi, protected,7
+3395,1162,2,2, in-unit, both, multi, off-street,9
+2700,650,1,1, in-unit, no pets, multi, protected,9
+2339,512,1,1, in-unit, both, multi, protected,9
+2200,500,1,1, on-site, no pets, multi, no parking,8
+2200,500,1,1, on-site, no pets, multi, protected,8
+2095,600,1,1, on-site, no pets, multi, protected,9
+1850,425,1,1, no laundry, cats, multi, no parking,8
+1850,425,1,1, no laundry, cats, multi, no parking,8
+2595,675,1,1, on-site, no pets, multi, protected,9
+2600,750,1,1, on-site, no pets, multi, no parking,9
+2450,650,1,1, on-site, cats, multi, protected,6
+2350,600,1,1, on-site, cats, multi, protected,8
+2950,700,1,1, on-site, both, multi, protected,9
+3000,950,1,1, on-site, no pets, multi, protected,7
+2589,1219,1,1, in-unit, both, multi, protected,10
+2702,1101,1,2, on-site, both, multi, no parking,9
+4500,1200,2,2, in-unit, no pets, multi, protected,9
+3200,800,2,1, in-unit, cats, multi, no parking,9
+2300,700,2,1, on-site, no pets, double, no parking,2
+3490,500,2,1, in-unit, both, multi, no parking,5
+3590,885,2,2, on-site, no pets, multi, protected,7
+3588,995,2,2, in-unit, both, multi, protected,9
+3663,1043,2,2, in-unit, both, multi, protected,9
+3400,1100,2,1, on-site, no pets, multi, protected,9
+4578,986,2,2, in-unit, both, multi, protected,9
+3312,922,2,2, in-unit, both, multi, protected,9
+3400,750,2,1, on-site, no pets, multi, no parking,6
+2650,700,2,1, on-site, no pets, multi, no parking,8
+3800,1400,2,2, on-site, dogs, multi, no parking,7
+2685,970,2,2, in-unit, no pets, multi, protected,10
+4999,1598,2,1, on-site, no pets, multi, protected,7
+3700,900,2,1, in-unit, no pets, single, protected,2
+2795,743,2,2, in-unit, both, multi, no parking,8
+3200,800,2,1, on-site, no pets, multi, no parking,8
+3000,800,2,1, on-site, no pets, multi, no parking,8
+3250,900,2,1, no laundry, no pets, multi, protected,5
+2800,675,2,1, no laundry, no pets, multi, no parking,8
+2700,675,2,1, no laundry, no pets, multi, no parking,8
+3795,1200,2,2, in-unit, both, multi, no parking,9
+3950,1450,3,1, in-unit, both, multi, no parking,9
+1691,232,0,1, on-site, no pets, multi, protected,9
+1660,232,0,1, on-site, no pets, multi, protected,9
+1690,233,0,1, on-site, no pets, multi, protected,9
+1679,241,0,1, on-site, no pets, multi, protected,9
+3000,810,1,1, in-unit, both, multi, protected,7
+3999,1000,2,1, in-unit, no pets, multi, no parking,5
+3600,800,2,2, on-site, both, multi, no parking,5
+3700,930,2,2, in-unit, dogs, multi, protected,9
+2500,900,2,1, on-site, no pets, double, no parking,10
+2765,902,2,1.5, no laundry, no pets, multi, no parking,10
+2850,900,2,1, no laundry, no pets, multi, no parking,8
+2999,775,2,1, on-site, no pets, multi, protected,1
+3900,950,2,2, on-site, both, multi, protected,9
+6995,1473,2,2.5, in-unit, no pets, multi, no parking,8
+3900,1254,2,1.5, in-unit, both, multi, protected,9
+4500,1450,2,2, in-unit, both, multi, protected,8
+5595,1150,2,2, in-unit, no pets, multi, protected,9
+3000,860,2,1, no laundry, no pets, multi, no parking,2
+3895,1000,2,1, on-site, no pets, multi, off-street,8
+3999,1500,2,2, in-unit, no pets, multi, protected,9
+4500,975,2,2, in-unit, no pets, multi, protected,7
+3150,900,2,1, on-site, both, multi, no parking,9
+3800,1200,2,1, on-site, no pets, multi, protected,8
+3100,750,2,1, on-site, cats, multi, protected,4
+3795,1050,2,1, on-site, no pets, multi, protected,5
+2800,875,2,1, on-site, no pets, multi, protected,9
+3100,1000,2,1, no laundry, no pets, multi, protected,2
+3300,1000,2,1, on-site, no pets, multi, protected,7
+2765,902,2,1.5, no laundry, no pets, multi, no parking,10
+3250,1000,2,1, on-site, no pets, multi, no parking,2
+3349,1400,3,1, on-site, no pets, multi, no parking,1
+4750,1421,3,1.5, no laundry, both, multi, no parking,5
+7195,1651,3,2, in-unit, both, multi, protected,5
+4637,1108,3,2, no laundry, both, multi, protected,6
+2999,2000,3,2, on-site, no pets, single, no parking,10
+3699,1100,3,1, no laundry, both, multi, no parking,8
+4950,1000,3,1.5, no laundry, no pets, multi, no parking,8
+3200,950,3,1.5, in-unit, no pets, single, no parking,10
+3800,1500,3,2, on-site, no pets, multi, no parking,7
+3900,1200,3,1, on-site, no pets, multi, no parking,8
+5100,1500,3,2.5, in-unit, no pets, single, protected,4
+7654,1525,3,2.5, in-unit, dogs, multi, protected,8
+3698,900,3,1, on-site, both, multi, no parking,9
+4995,1500,3,2, in-unit, both, multi, off-street,5
+3595,1100,3,1, on-site, no pets, multi, no parking,8
+2599,665,1,1, in-unit, no pets, multi, off-street,9
+2900,950,1,1, on-site, no pets, multi, no parking,1
+4149,1200,3,1.5, on-site, no pets, multi, protected,2
+3300,800,3,3, no laundry, no pets, multi, no parking,2
+2900,1000,3,1, on-site, no pets, single, no parking,3
+3200,800,3,2, in-unit, no pets, multi, no parking,8
+3700,1600,3,2, on-site, no pets, multi, no parking,6
+4000,1500,3,2, in-unit, cats, multi, no parking,5
+4800,1500,3,2.5, on-site, no pets, multi, no parking,7
+4695,1650,3,3, on-site, no pets, multi, protected,1
+2995,732,1,1, in-unit, no pets, multi, protected,9
+2950,1162,1,2, in-unit, no pets, multi, protected,9
+3850,966,2,2, in-unit, no pets, multi, protected,9
+5695,1429,3,1.5, in-unit, both, multi, protected,5
+5000,1240,3,2, on-site, no pets, multi, protected,5
+9300,2200,4,2.5, in-unit, no pets, multi, protected,7
+6000,1500,4,2, on-site, no pets, multi, no parking,7
+5600,1800,4,1, in-unit, no pets, multi, protected,5
+5500,1800,4,2, in-unit, no pets, multi, no parking,5
+3150,1000,1,1, no laundry, cats, multi, no parking,8
+3150,1000,1,1, no laundry, cats, multi, no parking,8
+4700,1750,2,2, in-unit, no pets, multi, protected,9
+7999,2379,4,4, in-unit, both, single, protected,4
+4800,1700,4,2.5, in-unit, no pets, multi, protected,9
+4400,1400,4,2.5, in-unit, both, multi, off-street,7
+3600,1000,4,2, on-site, no pets, multi, no parking,5
+3950,1432,3,1, no laundry, both, multi, no parking,9
+5555,1555,5,1.5, no laundry, both, multi, no parking,5
+7950,1800,5,2, no laundry, no pets, multi, no parking,6
+10000,2000,6,2, in-unit, no pets, single, off-street,7
+1575,310,0,1, on-site, both, multi, no parking,8
+2225,428,1,1, on-site, both, multi, no parking,8
+2915,543,1,1, in-unit, both, multi, protected,5
+2445,400,2,1, on-site, both, multi, no parking,8
+2195,404,1,1, on-site, both, multi, no parking,8
+3250,1036,2,1, on-site, both, multi, no parking,8
+5000,2100,6,3, no laundry, no pets, multi, no parking,2
+2404,1032,1,1, in-unit, both, multi, protected,10
+3995,1090,2,2, in-unit, no pets, multi, protected,9
+3807,1592,2,2, in-unit, both, multi, no parking,10
+3000,631,1,1, in-unit, no pets, multi, protected,9
+2917,721,1,1, in-unit, no pets, multi, protected,9
+2574,736,1,1, in-unit, both, multi, protected,9
+4242,981,2,2, in-unit, both, multi, valet,9
+2288,433,0,1, in-unit, both, multi, protected,9
+2500,800,1,1.5, in-unit, no pets, multi, no parking,9
+3195,750,1,1, in-unit, no pets, multi, protected,9
+2337,800,1,1, on-site, cats, multi, protected,9
+2418,431,0,1, in-unit, no pets, multi, off-street,9
+3980,1000,4,1.5, in-unit, both, multi, protected,9
+5200,1800,5,2, in-unit, no pets, multi, no parking,7
+4595,1400,4,1.5, in-unit, no pets, multi, no parking,6
+2500,950,1,1, in-unit, no pets, multi, no parking,2
+2292,515,1,1, in-unit, both, multi, no parking,8
+3363,1090,2,2, in-unit, both, multi, no parking,9
+2643,769,1,1, in-unit, both, multi, protected,8
+3500,1250,1,1, in-unit, both, multi, protected,8
+4495,1494,2,2.5, in-unit, both, multi, protected,9
+5650,936,4,2, no laundry, no pets, multi, no parking,6
+4595,1200,3,1, on-site, no pets, multi, no parking,8
+2800,800,1,1, on-site, cats, multi, no parking,7
+3600,1280,3,2, on-site, no pets, multi, no parking,2
+3099,921,2,2, in-unit, both, multi, protected,9
+3395,850,2,1, on-site, no pets, multi, no parking,5
+2695,780,1,1, on-site, cats, multi, no parking,1
+5795,1620,4,3, in-unit, both, multi, protected,9
+2966,800,2,1, in-unit, no pets, multi, no parking,9
+1218,200,0,1, on-site, no pets, multi, no parking,9
+5200,1000,3,1, in-unit, no pets, single, off-street,7
+3495,800,2,1, on-site, both, multi, protected,9
+3500,850,2,1, in-unit, no pets, multi, no parking,8
+3475,925,1,1, on-site, both, multi, protected,9
+4395,1035,2,2, in-unit, both, multi, no parking,6
+3850,1050,2,1.5, in-unit, no pets, multi, protected,9
+4595,1500,3,1, in-unit, no pets, multi, protected,5
+4750,1414,3,2, on-site, no pets, multi, protected,9
+19000,2358,3,3.5, in-unit, no pets, multi, valet,9
+3650,750,3,2, on-site, no pets, multi, no parking,1
+2875,633,1,1, on-site, both, multi, protected,2
+2427,1133,1,1, in-unit, both, multi, no parking,10
+2695,1000,2,2, no laundry, no pets, multi, no parking,8
+2695,1000,2,2, no laundry, no pets, multi, no parking,5
+3412,916,2,2, in-unit, both, multi, no parking,8
+2850,750,2,1, on-site, no pets, multi, no parking,8
+3099,875,2,2, on-site, no pets, multi, protected,6
+4050,1200,3,1.5, in-unit, cats, multi, no parking,9
+2200,500,1,1, on-site, both, multi, no parking,7
+2595,650,1,1, on-site, cats, multi, protected,1
+3295,933,2,1, on-site, both, multi, protected,8
+3295,833,2,1, on-site, both, multi, protected,8
+3300,950,3,1.5, on-site, no pets, multi, no parking,8
+3500,909,1,1, in-unit, no pets, multi, no parking,9
+3459,882,1,1, in-unit, no pets, multi, protected,9
+4950,1300,3,1, in-unit, both, multi, no parking,6
+2669,789,1,1, in-unit, both, multi, protected,8
+2995,650,1,1, on-site, no pets, multi, protected,7
+3525,805,1,1, in-unit, both, multi, protected,6
+4210,1374,2,2, in-unit, both, multi, protected,8
+2395,650,1,1, on-site, cats, multi, no parking,6
+2200,550,1,1, on-site, no pets, multi, no parking,8
+2595,690,1,1, in-unit, no pets, multi, protected,9
+4400,1200,3,1, on-site, cats, multi, no parking,8
+1900,650,1,1, on-site, no pets, multi, no parking,1
+3400,680,1,1, on-site, both, multi, protected,6
+2450,450,1,1, on-site, both, multi, no parking,8
+2195,750,1,1, no laundry, no pets, multi, no parking,1
+1800,450,1,1, no laundry, no pets, multi, off-street,3
+2990,587,1,1, in-unit, both, multi, protected,5
+3980,800,1,1, on-site, no pets, multi, off-street,5
+2950,1000,2,1, on-site, no pets, multi, no parking,6
+3799,1187,2,2, in-unit, both, multi, no parking,8
+4000,775,3,1, on-site, no pets, single, no parking,10
+5290,1420,3,2, in-unit, both, multi, protected,9
+4800,1400,3,2, in-unit, cats, multi, no parking,9
+3600,1000,3,1.5, on-site, no pets, multi, no parking,1
+4295,830,1,1, in-unit, no pets, multi, no parking,9
+3000,675,1,1, on-site, cats, multi, off-street,8
+4999,1400,3,2, no laundry, no pets, multi, no parking,6
+3700,1300,1,2, in-unit, no pets, multi, protected,9
+2800,970,1,1, in-unit, no pets, multi, protected,9
+3100,500,1,1, on-site, no pets, multi, no parking,7
+1600,400,0,1, on-site, no pets, multi, no parking,8
+1600,400,0,1, on-site, no pets, multi, no parking,8
+5500,1500,3,2, in-unit, no pets, multi, protected,7
+5500,1500,2,2, in-unit, no pets, multi, protected,7
+2246,476,0,1, in-unit, both, multi, protected,2
+3150,800,2,1, on-site, no pets, single, no parking,9
+4900,1600,2,2, in-unit, both, multi, protected,9
+3995,1800,4,2, on-site, both, multi, no parking,5
+3995,1800,4,2, on-site, both, multi, no parking,9
+3995,850,1,1, on-site, no pets, multi, no parking,7
+4500,1700,2,2, in-unit, both, multi, no parking,7
+2800,780,1,1, on-site, no pets, multi, protected,5
+2800,790,1,1, on-site, no pets, multi, no parking,5
+5300,1600,4,2, on-site, no pets, single, no parking,2
+3575,1000,2,1, on-site, no pets, multi, no parking,8
+3575,1000,2,1, on-site, no pets, multi, no parking,8
+2195,450,0,1, no laundry, no pets, multi, no parking,9
+7746,2450,4,3.5, in-unit, both, multi, protected,5
+7746,2450,4,3.5, in-unit, both, multi, protected,5
+2295,573,0,1, on-site, dogs, multi, no parking,8
+5400,1600,3,2, in-unit, no pets, multi, no parking,7
+2680,591,1,1.5, in-unit, both, multi, protected,9
+3466,551,1,1, in-unit, both, multi, no parking,5
+2595,627,1,1, in-unit, cats, multi, no parking,6
+4200,1000,2,2, in-unit, no pets, multi, protected,2
+1995,357,0,1, in-unit, cats, multi, no parking,6
+3250,655,1,1, in-unit, both, multi, no parking,6
+2075,346,0,1, in-unit, cats, multi, no parking,6
+2075,346,0,1, in-unit, cats, multi, no parking,6
+2986,503,1,1, in-unit, both, multi, valet,9
+3190,840,2,1, on-site, cats, multi, no parking,8
+4950,2000,4,2.5, in-unit, no pets, multi, protected,1
+4495,1600,3,2, in-unit, no pets, multi, protected,1
+2998,585,1,1, in-unit, both, multi, protected,9
+2900,700,1,1, on-site, no pets, multi, no parking,7
+1995,415,1,1, no laundry, cats, multi, protected,6
+4100,1000,2,1, in-unit, both, multi, no parking,5
+4750,1500,3,2, on-site, both, multi, protected,1
+4536,914,2,1, in-unit, both, multi, protected,9
+3775,1000,1,1, on-site, no pets, multi, protected,7
+5695,1965,4,2, on-site, cats, multi, no parking,9
+4495,1400,4,1, in-unit, both, multi, no parking,9
+3295,850,1,1, on-site, cats, multi, protected,7
+3000,950,1,1, on-site, no pets, multi, off-street,7
+3295,800,1,1, on-site, no pets, multi, protected,7
+3150,920,1,1, on-site, no pets, multi, protected,8
+3550,1200,3,1.5, in-unit, no pets, multi, no parking,8
+3450,950,2,2, on-site, no pets, multi, protected,8
+2850,800,2,1, no laundry, no pets, multi, protected,2
+2500,650,1,1, on-site, no pets, multi, protected,5
+3950,985,1,1, in-unit, no pets, multi, protected,8
+4695,1850,4,2.5, in-unit, no pets, single, protected,10
+2995,700,1,1, on-site, no pets, multi, protected,9
+7400,2208,5,2, in-unit, both, multi, no parking,7
+2795,950,1,1, on-site, both, multi, no parking,8
+7995,3000,2,2, on-site, both, multi, no parking,7
+2882,796,1,1, in-unit, both, multi, protected,8
+3800,1350,3,2, on-site, no pets, multi, no parking,2
+2137,480,2,1, on-site, both, multi, no parking,8
+2900,1000,2,1, on-site, no pets, multi, no parking,7
+4000,1700,3,2, in-unit, no pets, multi, protected,9
+2350,525,1,1, on-site, no pets, multi, protected,1
+3500,1375,2,2, in-unit, no pets, single, protected,2
+1950,700,0,1, no laundry, no pets, multi, no parking,8
+2650,650,1,1, no laundry, cats, multi, no parking,8
+2450,700,1,1, on-site, no pets, multi, no parking,7
+3250,833,2,1, in-unit, both, multi, protected,9
+2975,750,2,1, on-site, no pets, multi, protected,7
+2975,880,2,1, no laundry, both, multi, no parking,8
+6100,2000,3,2, on-site, no pets, multi, no parking,7
+4800,2106,3,2.5, in-unit, both, multi, protected,9
+3500,1000,2,1, on-site, no pets, multi, no parking,8
+1950,600,1,1, on-site, no pets, double, no parking,2
+5915,1783,3,3, in-unit, both, multi, no parking,8
+1699,525,1,1, no laundry, no pets, double, no parking,1
+3995,1000,2,2, in-unit, cats, multi, protected,5
+3943,1452,3,2.5, no laundry, no pets, multi, no parking,10
+2905,981,2,2, in-unit, both, multi, protected,10
+3899,1102,2,2, in-unit, both, multi, no parking,9
+3000,800,1,1, no laundry, cats, multi, off-street,1
+2800,950,2,1, on-site, no pets, multi, no parking,7
+2992,837,1,1, in-unit, both, multi, protected,9
+4991,912,2,2, no laundry, no pets, multi, no parking,9
+2750,627,1,1, in-unit, cats, multi, no parking,9
+2850,800,1,1, on-site, no pets, multi, no parking,7
+2100,550,0,1, no laundry, no pets, multi, no parking,7
+3595,1000,2,1, on-site, no pets, multi, no parking,7
+2685,596,1,1, in-unit, both, multi, protected,8
+1775,320,0,1, on-site, no pets, multi, no parking,2
+1795,450,0,1, on-site, both, multi, no parking,8
+1800,500,0,1, on-site, no pets, multi, no parking,8
+3500,700,2,2, on-site, both, multi, no parking,9
+1700,307,1,1, on-site, no pets, multi, no parking,9
+2395,700,1,1, no laundry, no pets, multi, no parking,5
+2565,303,0,1, on-site, no pets, multi, no parking,9
+5100,1250,3,1, no laundry, no pets, multi, no parking,8
+4995,1236,3,2, in-unit, dogs, multi, protected,6
+3150,800,1,1, on-site, no pets, multi, protected,9
+3050,720,2,1, in-unit, cats, single, no parking,9
+3000,744,1,1, on-site, both, multi, protected,4
+3995,933,2,2, in-unit, both, multi, no parking,9
+2700,900,3,1, no laundry, cats, multi, no parking,9
+4500,1250,2,2, in-unit, no pets, multi, protected,9
+2815,621,1,1, in-unit, both, multi, protected,6
+3995,860,2,1, in-unit, both, multi, no parking,9
+2800,700,2,1, on-site, no pets, multi, protected,6
+2790,548,2,1, on-site, no pets, multi, no parking,8
+2594,850,1,1, on-site, cats, multi, protected,7
+2050,500,0,1, no laundry, no pets, multi, no parking,1
+1600,289,0,1, no laundry, no pets, multi, no parking,6
+5000,1600,3,2, in-unit, no pets, multi, no parking,5
+9100,3200,5,3, in-unit, no pets, single, no parking,4
+9000,2588,2,2.5, in-unit, no pets, multi, protected,8
+3195,897,1,1, on-site, cats, multi, protected,5
+2950,550,1,1, in-unit, no pets, multi, protected,9
+2800,600,1,1, in-unit, both, multi, protected,8
+4495,1500,3,2, on-site, both, multi, protected,5
+3995,1400,3,1.5, no laundry, cats, multi, no parking,5
+3400,1700,3,2, on-site, no pets, multi, protected,10
+4995,1500,4,2, on-site, no pets, multi, no parking,8
+2700,717,1,1, no laundry, no pets, multi, no parking,1
+3250,901,1,2, in-unit, both, multi, protected,9
+6800,1350,3,1, on-site, cats, multi, no parking,8
+2500,350,0,1, no laundry, no pets, multi, no parking,8
+2950,760,1,1, in-unit, both, multi, valet,8
+4800,1050,3,3, in-unit, both, multi, no parking,9
+3300,724,1,1, in-unit, both, multi, protected,9
+2900,650,1,1, on-site, both, multi, no parking,5
+3500,780,1,1, in-unit, both, multi, protected,9
+3300,955,1,1, on-site, both, multi, protected,6
+4500,1300,2,2, on-site, both, multi, protected,8
+4305,1365,3,2.5, in-unit, both, multi, no parking,8
+4495,1300,2,2, on-site, cats, multi, protected,7
+3549,790,1,1, in-unit, both, multi, no parking,9
+4300,1600,3,2, on-site, both, multi, protected,10
+2099,525,0,1, on-site, both, multi, no parking,1
+1600,410,0,1, on-site, no pets, multi, no parking,8
+4675,1110,2,1, in-unit, no pets, multi, protected,7
+2517,370,0,1, on-site, both, multi, no parking,9
+2900,558,1,1, in-unit, no pets, multi, no parking,9
+2995,609,1,1, on-site, no pets, multi, protected,9
+6999,1925,5,2, in-unit, cats, multi, no parking,7
+4900,1303,3,1, in-unit, both, multi, no parking,9
+2880,750,2,1, in-unit, dogs, multi, no parking,1
+2995,670,1,1, in-unit, cats, multi, no parking,9
+4500,1450,2,2, on-site, both, multi, protected,8
+4500,1450,2,2, on-site, both, multi, protected,8
+3990,500,1,1, in-unit, both, multi, protected,9
+2300,600,1,1, on-site, no pets, multi, no parking,10
+7500,2500,6,2.5, in-unit, no pets, multi, no parking,9
+3290,486,0,1, in-unit, both, multi, protected,9
+3090,470,0,1, in-unit, both, multi, protected,9
+5290,1442,2,2, in-unit, both, multi, protected,9
+3995,1072,2,2, on-site, no pets, multi, protected,8
+2990,640,1,1, in-unit, both, multi, protected,9
+2790,588,1,1, in-unit, both, multi, protected,9
+4590,1050,2,1, in-unit, both, multi, protected,8
+4790,1043,2,2, in-unit, both, multi, protected,9
+5790,1376,2,2, in-unit, both, multi, protected,9
+3990,845,1,1, in-unit, both, multi, protected,9
+2890,486,0,1, in-unit, both, multi, protected,9
+2490,460,0,1, on-site, both, multi, protected,9
+3690,1044,2,2, in-unit, both, multi, protected,9
+3990,736,1,1, in-unit, both, multi, protected,9
+2450,530,1,1, in-unit, no pets, multi, protected,9
+1300,250,0,1, no laundry, no pets, multi, no parking,10
+5200,1440,3,2, no laundry, no pets, multi, protected,8
+1400,350,0,1, in-unit, no pets, multi, off-street,10
+1400,300,0,1, in-unit, no pets, multi, off-street,10
+1400,320,0,1, on-site, no pets, multi, no parking,10
+4595,1100,3,1, on-site, no pets, multi, no parking,8
+3250,950,2,1, no laundry, no pets, multi, no parking,7
+1995,550,1,1, on-site, cats, multi, protected,2
+3840,799,2,2, on-site, both, multi, protected,5
+3250,800,2,1, no laundry, no pets, multi, no parking,9
+7000,2012,3,2, in-unit, no pets, single, protected,5
+4800,1450,2,2, in-unit, both, multi, protected,8
+5400,1250,3,1.5, on-site, cats, multi, no parking,5
+4500,1500,3,2, in-unit, both, multi, protected,9
+4750,1561,3,1, in-unit, no pets, multi, protected,6
+3995,850,1,1, in-unit, no pets, multi, no parking,5
+3650,838,1,1.5, in-unit, no pets, multi, protected,9
+2100,400,1,1, on-site, cats, multi, no parking,5
+4500,1023,1,1, in-unit, both, multi, no parking,7
+4750,1038,1,1, in-unit, cats, multi, no parking,7
+4295,940,2,2, in-unit, both, multi, no parking,6
+2617,650,1,1, in-unit, both, multi, no parking,9
+2600,800,1,1, in-unit, cats, multi, no parking,8
+2950,600,1,1, on-site, both, multi, no parking,6
+2800,700,1,1, in-unit, cats, multi, no parking,8
+2795,450,1,1, on-site, no pets, multi, no parking,7
+1995,450,0,1, on-site, no pets, multi, no parking,9
+3495,1700,3,1, no laundry, no pets, multi, no parking,9
+2950,1000,2,1, in-unit, no pets, multi, no parking,5
+3895,850,3,1, in-unit, both, multi, no parking,5
+1995,400,0,1, no laundry, no pets, multi, no parking,9
+2550,750,1,1, no laundry, no pets, multi, off-street,1
+2299,550,0,1, on-site, both, multi, no parking,6
+2495,900,1,1, on-site, cats, multi, no parking,2
+3700,1050,2,1, on-site, both, multi, protected,7
+4399,1349,1,1, in-unit, no pets, multi, no parking,9
+4500,1500,4,2, on-site, both, multi, no parking,9
+3975,925,1,1, in-unit, dogs, multi, protected,8
+1290,240,1,1, no laundry, no pets, multi, no parking,1
+5000,1250,2,2, in-unit, both, multi, protected,6
+2040,840,2,1.5, in-unit, both, multi, no parking,5
+6950,1700,5,2, in-unit, no pets, multi, off-street,5
+1780,300,1,1, on-site, cats, multi, no parking,8
+4550,1000,2,2, on-site, both, multi, no parking,7
+4750,1235,2,2.5, in-unit, cats, multi, protected,6
+2595,1000,2,1, no laundry, no pets, multi, no parking,8
+3950,1600,3,1.5, on-site, no pets, single, protected,10
+2900,980,2,1, no laundry, both, multi, no parking,9
+3450,950,2,2, in-unit, cats, multi, no parking,9
+2250,550,0,1, on-site, cats, multi, no parking,6
+5000,1770,2,2.5, in-unit, both, multi, protected,9
+2349,620,1,1, in-unit, cats, multi, no parking,8
+2066,549,0,1, in-unit, both, multi, no parking,8
+3200,1200,2,2, in-unit, both, multi, protected,9
+3898,1098,1,1, on-site, no pets, multi, protected,7
+4200,1400,3,1, in-unit, no pets, multi, no parking,7
+6500,1321,2,2, in-unit, dogs, multi, protected,9
+4648,1313,2,2, in-unit, no pets, multi, protected,9
+4400,1167,2,1, no laundry, no pets, multi, no parking,9
+7200,1274,2,2, in-unit, no pets, multi, protected,9
+3500,814,1,1, in-unit, no pets, multi, protected,9
+1800,500,0,1, no laundry, no pets, multi, no parking,8
+4195,1200,2,1.5, in-unit, both, multi, no parking,5
+2800,601,1,1, in-unit, both, multi, protected,8
+4000,900,2,1, on-site, both, multi, no parking,9
+3135,621,1,1, in-unit, both, multi, no parking,6
+2511,647,1,1, in-unit, both, multi, valet,9
+3500,781,1,1, in-unit, no pets, multi, protected,8
+4595,1182,2,2, in-unit, both, multi, protected,9
+3900,1163,2,2, in-unit, both, multi, protected,9
+2800,650,2,1, no laundry, no pets, double, no parking,1
+2895,491,1,1, in-unit, both, multi, no parking,5
+3588,854,1,1, in-unit, no pets, multi, valet,9
+3271,860,1,2, in-unit, both, multi, valet,9
+1995,300,1,1, on-site, both, multi, no parking,9
+2746,516,1,1, in-unit, both, multi, protected,9
+2500,500,1,1, in-unit, no pets, multi, no parking,5
+2400,440,1,1, on-site, cats, multi, no parking,7
+1300,150,0,1, on-site, no pets, double, no parking,2
+4700,1750,2,2, in-unit, no pets, multi, protected,9
+2996,895,2,2, on-site, both, multi, protected,8
+3800,873,1,1, in-unit, dogs, multi, valet,9
+3725,855,1,1, no laundry, no pets, multi, no parking,9
+3378,920,1,1, in-unit, no pets, multi, valet,9
+5200,1191,2,2, in-unit, no pets, multi, valet,9
+3395,1100,2,2, in-unit, both, multi, protected,9
+2600,850,1,1, in-unit, no pets, multi, no parking,5
+2650,700,1,1, on-site, no pets, multi, no parking,4
+3200,1000,1,1, on-site, no pets, multi, no parking,7
+2945,975,1,1, on-site, no pets, multi, protected,7
+4075,1010,2,2, in-unit, both, multi, no parking,5
+4500,1140,2,2, in-unit, no pets, multi, protected,9
+3700,1100,2,1, on-site, cats, multi, no parking,8
+2900,850,2,1, no laundry, no pets, multi, protected,6
+2995,936,2,1, on-site, no pets, multi, no parking,9
+4500,1100,3,1.5, in-unit, no pets, multi, no parking,5
+3900,1200,3,2, on-site, no pets, multi, no parking,6
+5250,1600,3,2, in-unit, no pets, multi, protected,8
+1700,950,1,1, in-unit, no pets, multi, no parking,10
+2650,1050,1,1, no laundry, no pets, multi, no parking,9
+2000,700,0,1, on-site, no pets, multi, protected,7
+4495,1005,2,1, on-site, both, multi, off-street,7
+2745,950,1,2, in-unit, both, multi, protected,9
+5500,1200,1,2, in-unit, both, multi, protected,9
+2995,1200,2,1, no laundry, no pets, multi, no parking,8
+3775,1000,1,1, on-site, no pets, multi, no parking,7
+3100,950,1,1, on-site, no pets, multi, no parking,7
+1995,400,0,1, on-site, no pets, multi, protected,9
+3875,1200,3,1, in-unit, no pets, multi, no parking,9
+3195,1200,2,1, no laundry, no pets, multi, no parking,8
+5566,1022,2,2, in-unit, both, multi, no parking,5
+4500,1000,1,1.5, on-site, dogs, multi, protected,7
+2695,900,1,1, on-site, no pets, multi, protected,1
+1875,450,0,1, on-site, no pets, multi, no parking,8
+1800,440,0,1, on-site, no pets, multi, no parking,8
+2050,700,1,1, on-site, no pets, multi, no parking,5
+3000,725,1,1.5, on-site, no pets, multi, protected,8
+3395,800,1,1, on-site, no pets, multi, no parking,7
+2400,500,0,1, on-site, no pets, multi, protected,5
+1799,550,0,1, on-site, no pets, multi, protected,8
+2600,700,1,1, on-site, no pets, multi, no parking,1
+3625,782,1,1, on-site, dogs, multi, protected,8
+7900,1400,4,4, in-unit, no pets, multi, no parking,5
+3295,1000,2,2, on-site, no pets, multi, no parking,7
+1750,450,0,1, on-site, no pets, multi, no parking,8
+7800,3000,2,2, in-unit, both, multi, no parking,7
+8750,2490,2,3, in-unit, both, multi, valet,8
+8750,2490,2,3, in-unit, both, multi, valet,8
+3100,770,1,1, in-unit, no pets, multi, no parking,9
+6800,2250,4,2, in-unit, both, single, protected,5
+3500,1047,2,2, in-unit, both, multi, protected,6
+4150,844,2,2, in-unit, no pets, multi, protected,9
+1900,350,1,1, on-site, no pets, double, no parking,3
+2595,1100,2,1, on-site, no pets, multi, no parking,10
+3869,1286,2,2, in-unit, both, multi, no parking,9
+7200,2100,1,2, no laundry, both, multi, no parking,9
+2906,748,1,1, in-unit, both, multi, no parking,9
+3480,1410,2,2, in-unit, no pets, multi, protected,9
+2995,650,1,1, on-site, cats, multi, no parking,8
+12500,2250,2,2.5, in-unit, both, multi, valet,9
+3895,950,2,1, on-site, both, multi, no parking,1
+2095,550,2,1, no laundry, both, multi, no parking,8
+4100,1240,2,1, on-site, no pets, single, off-street,9
+2600,500,1,1, on-site, no pets, multi, no parking,7
+4500,1140,4,2, in-unit, both, multi, no parking,7
+1600,425,0,1, on-site, no pets, multi, no parking,8
+2395,562,0,1, on-site, no pets, multi, no parking,8
+5500,1180,2,2, in-unit, no pets, multi, valet,9
+5000,1180,2,2, in-unit, both, multi, valet,9
+4500,1107,2,2, on-site, no pets, multi, valet,9
+3300,916,1,1, in-unit, no pets, multi, protected,9
+4250,1163,2,2, in-unit, no pets, multi, protected,9
+5450,1240,2,2, in-unit, no pets, multi, protected,9
+7800,1572,2,2, in-unit, no pets, multi, valet,9
+5000,1340,2,2, in-unit, no pets, multi, protected,9
+4500,969,2,2, in-unit, no pets, multi, no parking,7
+2850,760,1,1, in-unit, both, multi, valet,9
+4500,916,2,2, in-unit, no pets, multi, protected,7
+2700,700,1,1, in-unit, no pets, multi, protected,9
+5500,1403,2,2, in-unit, no pets, multi, valet,9
+2400,665,1,1, in-unit, no pets, multi, no parking,9
+1980,572,1,1, in-unit, both, multi, protected,10
+2075,675,1,1, in-unit, both, multi, protected,10
+4000,1265,2,2, in-unit, no pets, multi, valet,9
+4150,1098,1,1.5, in-unit, both, multi, protected,9
+4375,1479,2,2, in-unit, no pets, multi, protected,9
+5100,1356,2,2, in-unit, no pets, multi, valet,9
+2500,1000,1,1, on-site, cats, multi, no parking,8
+3995,1900,3,2, in-unit, both, single, no parking,8
+6000,2300,3,2, on-site, no pets, multi, protected,7
+5495,1250,2,1, on-site, no pets, multi, off-street,7
+2400,1050,1,1, in-unit, no pets, multi, no parking,5
+4700,1850,4,2.5, on-site, no pets, multi, protected,1
+2900,538,1,1, in-unit, both, multi, protected,9
+4275,1517,2,2, in-unit, both, multi, valet,9
+4500,1600,2,2, in-unit, both, multi, protected,9
+3600,630,2,1, in-unit, no pets, multi, protected,9
+3000,980,2,1, on-site, both, multi, no parking,9
+3095,750,1,1, on-site, no pets, multi, protected,9
+3650,1014,2,1, in-unit, cats, multi, no parking,9
+3975,1100,2,2.5, in-unit, no pets, multi, no parking,9
+4500,1850,4,2.5, on-site, no pets, multi, protected,1
+2300,600,1,1, on-site, both, multi, protected,2
+1965,595,1,1, in-unit, both, multi, no parking,8
+3655,1000,2,2, in-unit, both, multi, protected,9
+3200,650,1,1, in-unit, both, multi, no parking,6
+5500,1327,3,2, in-unit, both, multi, protected,6
+5995,1400,2,2, in-unit, cats, multi, protected,5
+3260,1400,2,1.5, in-unit, no pets, multi, protected,9
+4500,1536,3,2, no laundry, both, single, protected,3
+2750,970,2,1, in-unit, cats, multi, protected,10
+4000,1800,2,2.5, in-unit, cats, multi, protected,9
+3750,1350,2,1, in-unit, no pets, single, protected,9
+2800,717,1,1, no laundry, no pets, multi, no parking,1
+1950,375,0,1, no laundry, no pets, multi, protected,2
+1495,450,0,1, on-site, no pets, multi, no parking,8
+3495,650,1,1, on-site, both, multi, protected,7
+4500,1125,2,1, in-unit, both, single, protected,5
+2395,700,1,1, on-site, no pets, multi, protected,5
+3550,920,2,2, in-unit, both, multi, protected,9
+3395,900,1,1, in-unit, dogs, multi, protected,8
+2725,501,1,1, in-unit, both, multi, protected,6
+4300,1000,3,1, in-unit, no pets, multi, no parking,8
+4500,900,3,1, in-unit, no pets, single, off-street,7
+3650,750,3,2, on-site, no pets, multi, no parking,1
+3400,1391,3,2.5, in-unit, no pets, multi, protected,10
+1749,260,0,1, on-site, no pets, multi, no parking,8
+2995,700,2,1, on-site, no pets, multi, protected,1
+3000,840,1,1, on-site, no pets, multi, no parking,7
+2500,650,1,1, on-site, no pets, multi, protected,1
+5875,1350,4,2, on-site, no pets, multi, protected,6
+5295,745,2,2, in-unit, no pets, multi, no parking,9
+4995,782,2,2, in-unit, no pets, multi, no parking,9
+2499,650,2,1, on-site, no pets, double, no parking,2
+4150,1100,1,1.5, no laundry, both, multi, no parking,7
+2395,506,1,1, on-site, no pets, multi, no parking,8
+2650,825,2,1, on-site, no pets, multi, no parking,1
+3450,1000,3,1, on-site, cats, multi, off-street,8
+2100,429,0,1, on-site, no pets, multi, no parking,8
+2195,413,0,1, on-site, no pets, multi, no parking,5
+1950,460,0,1, on-site, cats, multi, no parking,8
+3900,681,2,2, in-unit, no pets, multi, no parking,8
+1895,464,0,1, on-site, no pets, multi, no parking,8
+1895,430,0,1, on-site, no pets, multi, no parking,8
+2200,429,0,1, on-site, no pets, multi, no parking,8
+4400,1450,3,2, in-unit, no pets, multi, no parking,5
+3700,1000,2,1, in-unit, no pets, multi, no parking,7
+2995,765,1,1, no laundry, cats, multi, protected,5
+3900,1200,3,1, on-site, no pets, multi, no parking,8
+4195,900,2,2, no laundry, no pets, multi, no parking,8
+3100,650,1,1, on-site, no pets, multi, protected,8
+4275,1000,2,1, in-unit, both, multi, protected,5
+4275,1000,2,1, in-unit, both, multi, protected,5
+2700,660,1,1, in-unit, no pets, multi, no parking,8
+2950,850,2,1, on-site, both, multi, protected,9
+3500,650,1,1, on-site, no pets, multi, protected,8
+3500,837,1,1, in-unit, no pets, multi, valet,9
+5600,1238,2,2, in-unit, no pets, multi, valet,9
+3950,605,1,1, in-unit, no pets, multi, valet,9
+2600,580,1,1, no laundry, cats, multi, no parking,2
+3450,900,1,1, on-site, both, multi, protected,1
+2750,550,1,1, on-site, no pets, multi, no parking,2
+2280,524,1,1, in-unit, both, multi, no parking,8
+2100,600,1,1, on-site, no pets, multi, no parking,2
+2570,615,1,1, on-site, both, multi, off-street,5
+2695,725,1,1, no laundry, no pets, multi, no parking,7
+2500,550,1,1, on-site, dogs, multi, no parking,2
+2895,800,1,1, on-site, both, multi, no parking,1
+2800,600,1,1, in-unit, no pets, multi, no parking,9
+3066,530,1,1, no laundry, no pets, multi, no parking,9
+3995,800,1,1, on-site, both, multi, protected,7
+3500,800,1,1, on-site, no pets, multi, off-street,7
+4125,1095,2,2, in-unit, no pets, multi, protected,9
+3300,605,1,1, in-unit, both, multi, valet,9
+3500,690,1,1, in-unit, no pets, multi, protected,5
+3300,970,1,1, in-unit, no pets, multi, protected,9
+2675,700,1,1, no laundry, both, multi, no parking,9
+3475,750,1,1, no laundry, both, multi, no parking,9
+2800,800,1,1, in-unit, no pets, multi, protected,8
+5595,1800,4,2, on-site, both, multi, no parking,5
+2050,350,0,1, no laundry, no pets, multi, protected,9
+1995,350,0,1, no laundry, no pets, multi, protected,9
+7900,1500,2,2, in-unit, no pets, multi, protected,8
+3395,900,1,1, in-unit, no pets, multi, protected,7
+5000,1300,2,2, on-site, both, multi, protected,7
+3395,900,1,1, in-unit, no pets, multi, protected,8
+2550,610,1,1, in-unit, no pets, multi, protected,9
+2095,800,1,1, no laundry, both, multi, no parking,9
+3995,950,2,2, on-site, no pets, multi, protected,7
+3995,950,2,1, on-site, no pets, multi, protected,7
+3495,900,1,1, on-site, no pets, multi, off-street,7
+3951,761,2,1, in-unit, both, multi, protected,9
+4202,850,2,2, in-unit, both, multi, protected,9
+2040,840,2,1.5, in-unit, both, multi, no parking,5
+2750,725,1,1, on-site, both, multi, no parking,9
+3750,901,2,2, in-unit, no pets, multi, protected,9
+3495,622,1,1, in-unit, no pets, multi, protected,8
+2075,500,0,1, on-site, both, multi, no parking,7
+3450,1100,2,1, on-site, no pets, multi, no parking,1
+2995,621,1,1, on-site, no pets, multi, protected,8
+1500,550,1,1, in-unit, no pets, double, no parking,2
+1795,300,1,1, on-site, both, double, no parking,3
+3200,500,1,1, on-site, both, multi, protected,2
+2390,800,1,1, no laundry, no pets, multi, no parking,1
+3370,800,1,1, on-site, no pets, multi, protected,8
+1895,500,1,1, in-unit, no pets, multi, no parking,10
+1675,350,0,1, on-site, no pets, multi, no parking,2
+4990,1655,3,2, in-unit, no pets, single, protected,9
+4250,600,2,2, in-unit, no pets, multi, no parking,5
+2733,763,1,1, in-unit, both, multi, protected,9
+3044,751,1,1, in-unit, both, multi, no parking,9
+2795,650,2,1, in-unit, no pets, multi, no parking,8
+1895,500,1,1, no laundry, both, multi, no parking,8
+3395,1000,2,1, in-unit, no pets, multi, no parking,8
+2190,600,1,1, on-site, no pets, multi, no parking,5
+3500,1400,3,2, in-unit, cats, multi, protected,3
+3200,1215,2,2, no laundry, both, multi, protected,9
+3995,1650,3,2, on-site, both, multi, protected,3
+4300,1300,3,2, in-unit, both, multi, no parking,9
+3595,916,2,1, no laundry, cats, multi, no parking,5
+2550,660,1,1, in-unit, no pets, multi, no parking,8
+2800,655,1,1, in-unit, no pets, multi, no parking,9
+2850,800,1,1, in-unit, cats, double, no parking,4
+10500,2179,3,3, in-unit, no pets, multi, protected,8
+7995,3200,4,3, in-unit, both, single, protected,4
+3104,650,1,1, on-site, cats, multi, off-street,8
+2595,740,1,1, on-site, no pets, multi, no parking,8
+4100,1050,2,1, on-site, both, multi, protected,5
+5200,1450,3,2, on-site, both, multi, protected,5
+6500,1450,4,2, on-site, no pets, multi, protected,7
+3700,1100,2,1, no laundry, no pets, single, protected,2
+2995,700,1,1, on-site, no pets, multi, protected,7
+1850,500,1,1, on-site, both, multi, protected,8
+3195,900,2,1, on-site, both, multi, no parking,2
+2195,500,2,1, on-site, no pets, multi, no parking,8
+1595,400,0,1, on-site, no pets, multi, no parking,8
+4500,1246,2,2, in-unit, no pets, multi, protected,6
+5995,1800,3,2, in-unit, both, multi, no parking,5
+3750,1500,3,2, in-unit, no pets, multi, no parking,1
+5195,1622,4,1.5, in-unit, both, multi, no parking,5
+6250,1860,3,2, in-unit, both, multi, protected,7
+2100,388,0,1, no laundry, cats, multi, no parking,6
+2199,750,1,1, in-unit, no pets, multi, protected,8
+1899,550,0,1, on-site, no pets, multi, protected,8
+4000,1000,2,1, in-unit, both, multi, no parking,5
+2199,575,1,1, on-site, both, multi, no parking,2
+2750,700,1,1, no laundry, both, multi, off-street,5
+2600,860,2,1, on-site, dogs, multi, off-street,5
+6050,2300,4,3, in-unit, both, single, protected,1
+2700,717,1,1, no laundry, no pets, multi, no parking,1
+2698,800,1,1, on-site, no pets, multi, protected,1
+2395,500,0,1, on-site, no pets, multi, protected,1
+3995,900,2,2, in-unit, both, multi, protected,7
+3495,700,1,1, in-unit, both, multi, protected,7
+3500,1011,2,2, in-unit, both, multi, protected,9
+3595,830,2,1, on-site, no pets, multi, protected,8
+3000,830,4,1, in-unit, both, multi, no parking,8
+1600,400,0,1, on-site, no pets, multi, no parking,8
+5750,1960,4,2, on-site, no pets, single, protected,4
+3895,1133,3,2, in-unit, both, multi, protected,9
+4200,1200,1,1, in-unit, both, multi, protected,8
+1675,224,0,1, on-site, both, multi, no parking,8
+3100,1072,2,2, in-unit, no pets, multi, protected,9
+2760,449,0,1, no laundry, both, multi, no parking,9
+3600,1255,1,1.5, in-unit, no pets, multi, protected,9
+3400,1124,1,1.5, in-unit, no pets, multi, protected,9
+5500,2900,4,2, no laundry, cats, single, protected,2
+2900,600,1,1, on-site, both, multi, no parking,5
+1674,656,1,1, on-site, both, multi, no parking,9
+4350,1310,2,1, on-site, no pets, multi, no parking,5
+1850,375,0,1, on-site, no pets, multi, no parking,7
+2000,525,0,1, on-site, no pets, multi, protected,6
+5700,1500,3,2, in-unit, both, multi, protected,9
+4250,769,1,1, in-unit, both, multi, protected,8
+5500,1760,3,1, in-unit, both, multi, no parking,5
+2445,600,1,1, no laundry, no pets, multi, no parking,7
+2600,850,1,1, no laundry, no pets, multi, no parking,7
+6895,1530,2,2, in-unit, dogs, multi, protected,7
+2200,450,1,1, on-site, no pets, multi, off-street,8
+2326,625,1,1, on-site, both, multi, protected,7
+1800,440,0,1, no laundry, no pets, multi, no parking,8
+1800,440,0,1, on-site, no pets, multi, no parking,8
+4500,1500,2,1, in-unit, both, single, off-street,9
+4250,1600,3,1, in-unit, no pets, single, protected,2
+1890,550,1,1, no laundry, no pets, multi, no parking,7
+4066,768,1,1, in-unit, both, multi, protected,9
+2956,644,1,1, in-unit, both, multi, protected,2
+2999,750,2,1, on-site, no pets, multi, no parking,2
+4400,1900,2,2, in-unit, no pets, single, protected,1
+3700,1100,3,1, no laundry, no pets, multi, no parking,8
+4495,1200,2,2, in-unit, both, multi, no parking,1
+3650,1000,2,2, on-site, no pets, multi, protected,7
+4750,1050,3,2, in-unit, both, multi, protected,6
+3950,1230,3,2, no laundry, no pets, multi, no parking,7
+2450,523,1,1, in-unit, no pets, multi, protected,8
+2695,800,1,1, on-site, no pets, multi, off-street,9
+4068,1113,2,2, in-unit, both, multi, no parking,9
+3400,945,2,2, on-site, no pets, multi, protected,2
+3500,974,2,2, on-site, no pets, multi, protected,2
+2000,400,0,1, on-site, no pets, multi, no parking,8
+2750,1016,1,1.5, in-unit, both, multi, protected,9
+2899,575,0,1, in-unit, both, multi, protected,5
+1595,420,0,1, no laundry, no pets, multi, no parking,8
+4500,1500,2,1, on-site, both, multi, protected,6
+3500,1200,2,1, on-site, no pets, multi, protected,9
+1795,500,2,1, no laundry, no pets, multi, no parking,1
+4000,1050,2,2, in-unit, no pets, multi, no parking,9
+3200,920,1,1.5, in-unit, no pets, multi, protected,9
+1929,750,1,1, on-site, no pets, multi, protected,8
+6500,1805,2,2.5, in-unit, both, multi, valet,8
+6500,1805,2,2.5, in-unit, both, multi, protected,8
+5900,1450,3,2, in-unit, no pets, multi, off-street,5
+4600,1250,3,2, in-unit, both, multi, no parking,9
+3000,845,1,1, on-site, no pets, multi, protected,6
+6995,2500,2,2, in-unit, no pets, multi, protected,5
+2860,1093,2,2, no laundry, both, multi, no parking,3
+4750,979,3,2, in-unit, both, multi, protected,9
+3020,702,1,1, in-unit, both, multi, protected,9
+6500,1800,5,1.5, in-unit, no pets, multi, no parking,5
+5595,1700,3,2, in-unit, dogs, multi, protected,5
+9800,1670,2,2.5, in-unit, no pets, multi, valet,9
+1600,350,0,1, no laundry, no pets, multi, no parking,8
+2483,433,0,1, in-unit, both, multi, protected,9
+1795,450,0,1, on-site, both, multi, no parking,8
+1395,335,0,1, no laundry, both, multi, no parking,8
+2195,590,0,1, no laundry, both, multi, no parking,2
+1650,300,0,1, on-site, no pets, double, no parking,2
+2500,600,0,1, no laundry, no pets, multi, no parking,5
+1600,300,0,1, no laundry, no pets, single, no parking,10
+1695,500,0,1, on-site, no pets, multi, no parking,8
+1995,456,0,1, on-site, no pets, multi, protected,9
+4800,955,2,2, in-unit, no pets, multi, protected,7
+3900,1532,2,2, in-unit, no pets, multi, protected,8
+4500,1444,3,2, in-unit, no pets, multi, no parking,7
+5995,1700,3,2, in-unit, both, multi, no parking,1
+5850,1300,1,1, in-unit, no pets, multi, protected,8
+1600,400,0,1, on-site, no pets, multi, no parking,8
+4488,977,2,2, in-unit, both, multi, protected,8
+6990,1700,4,2, in-unit, no pets, multi, no parking,9
+3700,1017,2,2, in-unit, both, multi, protected,6
+2300,750,2,2, in-unit, no pets, multi, no parking,10
+3000,965,1,1.5, in-unit, no pets, multi, protected,9
+3107,956,1,1, in-unit, both, multi, protected,9
+3728,1015,2,2, in-unit, both, multi, no parking,9
+5950,2100,3,2, in-unit, no pets, multi, no parking,9
+4200,1150,3,2, on-site, both, multi, no parking,5
+4075,950,2,1, in-unit, no pets, multi, no parking,5
+3195,750,1,1, on-site, no pets, multi, no parking,9
+1625,500,0,1, on-site, cats, multi, no parking,10
+1795,450,0,1, on-site, both, multi, no parking,8
+4595,900,2,2, on-site, both, multi, protected,9
+3595,1075,2,1, on-site, cats, multi, no parking,5
+2950,850,1,2, in-unit, no pets, multi, protected,9
+2799,1000,2,2, on-site, no pets, multi, protected,8
+2800,950,1,1, in-unit, no pets, multi, protected,9
+4145,996,2,2, in-unit, both, multi, protected,8
+4495,1400,3,2, on-site, both, multi, off-street,2
+4595,1220,2,2, in-unit, no pets, multi, protected,9
+2995,784,1,1, in-unit, no pets, multi, protected,9
+2300,600,1,1, no laundry, cats, multi, protected,5
+2395,600,1,1, no laundry, cats, multi, protected,5
+3250,900,1,1, on-site, no pets, multi, protected,7
+2495,483,2,1, on-site, dogs, multi, no parking,8
+3995,1100,1,1, on-site, both, multi, protected,8
+2495,573,1,1, no laundry, cats, multi, no parking,3
+3395,1231,2,2, in-unit, dogs, multi, protected,9
+2750,1000,2,2, in-unit, dogs, multi, protected,9
+2786,425,1,1, no laundry, no pets, multi, no parking,9
+2750,700,0,1, on-site, no pets, multi, protected,7
+3416,885,2,2, in-unit, both, multi, protected,9
+4600,1750,3,2.5, no laundry, no pets, multi, protected,6
+3550,900,1,1, in-unit, both, multi, no parking,9
+2850,690,1,1, on-site, cats, multi, no parking,5
+3850,1500,3,1.5, in-unit, both, multi, no parking,9
+3695,911,2,2, in-unit, both, multi, protected,8
+3575,1000,2,1, on-site, no pets, multi, no parking,8
+2595,1000,1,1, no laundry, no pets, multi, protected,2
+6300,1886,5,2, in-unit, both, multi, no parking,6
+2950,980,2,2, in-unit, both, multi, no parking,3
+2895,800,1,1, no laundry, cats, multi, no parking,7
+3995,1000,3,1, no laundry, both, multi, no parking,3
+4876,1285,2,2, in-unit, both, multi, protected,9
+3200,770,1,1, in-unit, no pets, multi, protected,8
+3450,1100,2,1, on-site, no pets, multi, no parking,7
+12000,3300,4,4, in-unit, both, multi, protected,9
+3896,728,2,1, no laundry, no pets, multi, no parking,9
+5600,1800,2,2, in-unit, cats, multi, protected,8
+4195,1120,2,2, in-unit, both, multi, protected,7
+3700,1201,2,2, in-unit, no pets, multi, protected,9
+2295,600,1,1, on-site, no pets, multi, no parking,6
+3400,668,1,1, in-unit, both, multi, no parking,8
+4350,950,2,1, in-unit, no pets, multi, protected,8
+6500,1583,3,2.5, in-unit, both, multi, valet,8
+1700,425,0,1, no laundry, no pets, multi, no parking,8
+3799,861,1,1, in-unit, both, multi, protected,9
+3198,925,2,2, on-site, both, multi, protected,7
+2906,748,1,1, in-unit, both, multi, no parking,9
+2801,627,1,1, in-unit, both, multi, no parking,9
+1500,390,0,1, on-site, both, multi, no parking,8
+2800,653,1,1, in-unit, no pets, multi, protected,9
+2335,700,1,1, in-unit, both, multi, protected,9
+3395,684,1,1, in-unit, no pets, multi, protected,8
+2595,900,2,1, on-site, no pets, multi, no parking,9
+3995,1190,2,2, in-unit, no pets, multi, protected,9
+4495,1200,2,2, in-unit, no pets, multi, protected,9
+2950,800,2,2, no laundry, cats, multi, protected,9
+7200,2300,5,2.5, in-unit, no pets, multi, no parking,7
+5150,1500,2,2, on-site, no pets, multi, valet,8
+3200,1200,2,1, on-site, no pets, multi, protected,1
+2995,1100,2,1, no laundry, no pets, multi, no parking,7
+5995,1590,4,2, on-site, both, multi, no parking,9
+1250,200,1,1, on-site, no pets, multi, no parking,2
+2420,729,1,1, no laundry, cats, single, no parking,3
+3250,1000,2,1, on-site, no pets, multi, no parking,8
+3734,1064,2,2, in-unit, both, multi, protected,9
+2770,690,1,1, in-unit, both, multi, protected,9
+2095,750,0,1, in-unit, no pets, multi, no parking,9
+4900,1700,5,2, in-unit, no pets, multi, no parking,7
+2795,650,1,1, on-site, no pets, multi, protected,7
+2550,750,1,1, on-site, no pets, multi, protected,7
+3490,750,2,1, in-unit, both, multi, protected,8
+2549,875,1,1, in-unit, both, multi, no parking,8
+2495,595,1,1, in-unit, both, multi, no parking,8
+2490,691,1,1, no laundry, cats, single, no parking,3
+2499,679,1,1, on-site, both, multi, no parking,6
+6495,1645,3,2.5, in-unit, both, multi, no parking,7
+4500,1350,2,2, in-unit, no pets, multi, protected,9
+3000,765,1,1, no laundry, no pets, multi, no parking,6
+4265,1365,3,2.5, in-unit, both, multi, no parking,9
+2195,500,1,1, no laundry, no pets, multi, no parking,9
+3000,650,1,1, on-site, both, multi, no parking,5
+3549,790,1,1, in-unit, both, multi, no parking,9
+3595,869,1,1, in-unit, both, multi, valet,9
+5250,1800,4,1, in-unit, both, multi, no parking,6
+2100,500,0,1, on-site, both, multi, no parking,5
+1699,550,1,1, no laundry, both, multi, no parking,6
+4700,1750,2,2, in-unit, no pets, multi, protected,9
+4700,1750,2,2, in-unit, no pets, multi, protected,9
+2000,500,0,1, on-site, no pets, multi, off-street,4
+2700,600,1,1, on-site, cats, multi, protected,1
+4099,1300,3,1, no laundry, both, multi, no parking,5
+3595,1200,2,1, on-site, cats, multi, no parking,9
+4695,1700,3,2, in-unit, no pets, multi, no parking,7
+1950,450,1,1, no laundry, no pets, single, off-street,3
+3600,1100,3,1, in-unit, no pets, multi, no parking,8
+3625,1032,2,2, in-unit, no pets, multi, protected,8
